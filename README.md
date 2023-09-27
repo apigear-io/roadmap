@@ -23,3 +23,4 @@ We will probably not work on all of these topics in 2024. We will focus on the m
 ## Feature Discussion
 
 - [feat001 js-filters ](features/feat001_js_filters.md): Add abilities for template writers to add own custom JS template filters.
+- [feat002 record-replay ](features/feat002_record_replay.md): Being able to record and replay API traffic was already much earlier requested by our customers. The feature allows customers to record API traffic and replay it later. This is useful for testing and simulation.
