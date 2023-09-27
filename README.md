@@ -1,2 +1,7 @@
-# apigear-roadmap
-Public discussion of the APIGear issues and the place to share our roadmap. Feel free to suggest new features or discuss existing ones.
+# ApiGear Roadmap
+
+This is a high-level site for planning roadmap and features. We use issue tracking in the projects to track issues for the tooling (cli, hub, studio) and templates.
+
+The information here does not always reflect the same state of thinking.
+
+/ ApiGear Team
