@@ -29,6 +29,7 @@ We worked a lot in 2023 to make all different ApiGear features more stable and e
     - Moving 3D Cube demo on different platforms
     - Server to test language interoperability
     - Visible Benchmark reports
+    - Broader api samples
 
 - Visibility - We need to get more visibility for ApiGear. We need to get more people to know about ApiGear and what it can do for them. We need to get more people to use ApiGear and give us feedback. We need to get more people to contribute to ApiGear and help us to make it better.
 
